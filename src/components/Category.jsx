@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Button, Col, FloatingLabel, Form, Modal, Row } from 'react-bootstrap';
-import { addCategoryAPI, deleteCategoryAPI, getAvideoAPI, getCategoryAPI, updateCategoryAPI } from '../services/allAPI';
+import { addCategoryAPI, deleteCategoryAPI, getAvideoAPI, getCategoryAPI, updateCategoryAPI } from '../services/allApi';
 import VideoCard from './VideoCard';
 
 function Category() {

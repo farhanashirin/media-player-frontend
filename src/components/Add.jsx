@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { Button, FloatingLabel, Form, Modal } from 'react-bootstrap'
-import { uploadVideoAPI } from '../services/allAPI'
+import { uploadVideoAPI } from '../services/allApi'
 
 
 function Add({setUploadVideoResponse}) {
