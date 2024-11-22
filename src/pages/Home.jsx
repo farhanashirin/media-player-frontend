@@ -1,9 +1,9 @@
 import React, { useState } from 'react'
 
 import { Link } from 'react-router-dom'
-import Add from '../Components/Add'
+import Add from '../components/Add'
 import View from '../components/View'
-import Category from '../Components/Category'
+import Category from '../components/Category'
 
 function Home() {
 

@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
-import { deleteHistoryAPI, getHistoryAPI } from '../services/allAPI'
+import { deleteHistoryAPI, getHistoryAPI } from '../services/allApi'
 
 function WatchHistory() {
 
